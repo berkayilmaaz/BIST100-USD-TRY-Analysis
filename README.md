@@ -12,6 +12,9 @@ This project analyzes the relationship between the BIST 100 index and the USD/TR
 
 - **Annual Average of the Top Three BIST 100 USD Fluctuations:** Each bar represents the average percentage change of the three largest volatility events in the dollar-denominated value of the BIST 100 index for the respective year.
 
+<p>
+  <img src="graph.png" title="Analysis Graph" />
+</p>
 
 
 
